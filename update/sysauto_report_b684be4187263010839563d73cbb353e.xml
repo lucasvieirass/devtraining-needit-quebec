@@ -17,7 +17,7 @@
         <page_height_in_pixels>612</page_height_in_pixels>
         <page_size>Letter</page_size>
         <page_width_in_pixels>792</page_width_in_pixels>
-        <report display_value="NeedIt Requests by Type 1">657ce60d87e23010839563d73cbb35be</report>
+        <report display_value="NeedIt Requests by Type">657ce60d87e23010839563d73cbb35be</report>
         <report_body><![CDATA[<p><strong>Please find the daily NeedIt Requests by Type report attached.</strong></p>]]></report_body>
         <report_title>Daily NeedIt Requests by Type report</report_title>
         <run_as display_value="LUCSystem Administrator">6816f79cc0a8016401c5a33be04be441</run_as>
